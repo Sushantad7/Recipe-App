@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Svelte + Vite
 
 This template should help get you started developing with Svelte in Vite.
@@ -45,3 +46,6 @@ If you have state that's important to retain within a component, consider creati
 import { writable } from 'svelte/store'
 export default writable(0)
 ```
+=======
+# Recipe-App
+>>>>>>> 09269632fffbdb91fae306cd3a38c4afe317e428
